@@ -1,1 +1,2 @@
-# jdice_team4
+# JDice Project
+Repository khởi tạo cho nhóm team4
